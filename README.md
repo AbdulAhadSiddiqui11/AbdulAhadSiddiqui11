@@ -67,8 +67,8 @@ Hi there, I'm **Abdul Ahad Siddiqui**, an **Information Technology student** ðŸš
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Abdul Ahad's github stats](https://github-readme-stats.vercel.app/api?username=abdulahadsiddiqui11&show_icons=true&hide_border=true&count_private=true&theme=prussian)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadsiddiqui11&layout=compact&theme=prussian&hide=Jupyter%20Notebook)](https://github.com/abdulahadsiddiqui11)
+[![Abdul Ahad's github stats](https://github-readme-stats.vercel.app/api?username=abdulahadsiddiqui11&show_icons=true&hide_border=true&count_private=true&theme=prussian)](https://github.com/AbdulAhadSiddiqui11)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadsiddiqui11&layout=compact&theme=prussian&hide=Jupyter%20Notebook)](https://github.com/AbdulAhadSiddiqui11?tab=repositories)
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdulahadsiddiqui11" alt="abdulahadsiddiqui11" /> </p>
