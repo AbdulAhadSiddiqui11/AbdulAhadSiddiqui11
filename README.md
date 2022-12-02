@@ -13,62 +13,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey 👋, I'm Abdul Ahad
+<h1 align="center"> Hey 👋, I'm Abdul Ahad </h1>
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/abdulahadsiddiqui11/" target="_blank">
-  <img align="left" alt="Abdul Ahad's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.hackerrank.com/xlr8er?hr_r=1" target="_blank">
-  <img align="left" alt="Abdul Ahad's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
+<img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
 <a href="https://www.instagram.com/abdulahadsiddiqui11/" target="_blank">
-  <img align="left" alt="Abdul Ahad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
 </a>
 
-<a href="https://www.facebook.com/abdulahadsiddiqui11" target="_blank">
-  <img align="left" alt="Abdul Ahad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="mailto:abdulahadsiddiqui011@gmail.com" target="_blank">
+<img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
+</p>
 
-<br />
-<br />
+<div align="center">
+Hi there, I'm <strong>Abdul Ahad Siddiqui</strong>, a <strong>Software Engineer</strong> 🚀 from India. <br />
+I ❤️ to solve real world problems using techology. <br />
+I'm open to full time, software engineer roles. 👨🏻‍💻 <br />
+</div>
 
-Hi there, I'm **Abdul Ahad Siddiqui**, an **Information Technology student** 🚀 from India, I love ❤️ to learn new technologies & concepts and build cool stuff with them. Currently, I'm in my final year of **Bachelor of Engineering** 💻 and I'm open to full time, software engineer or software intern roles; 👨🏻‍💻
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br>
 
-**Talking about me:**
+**About me**
 
-- 🔭 I’m currently working on full fledged web-applications;
-- 🌱 I’m currently learning full-stack web development; 
-- 🔥 My interests are Problem Solving, Product development, Web-Dev. etc..;
-- 💼 I’m pursuing a Bachelor's degree in Information Technology;
+- 🔭 I’m currently working at Deloitte as a Software Engineer;
+- 🔥 I like to solve problems, build web applications and explore new technology trends;
+- 💼 I’m open to work - please drop me an email at the address below;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via abdulahadsiddiqui011@gmail.com to reach me.
-- 📝 See my [LinkedIn](https://www.linkedin.com/in/abdulahadsiddiqui11/) to get more info.
+- 📫 Reach out to me at abdulahadsiddiqui011@gmail.com;
+- 📝 Come, connect with me on [LinkedIn](https://www.linkedin.com/in/abdulahadsiddiqui11/).
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<!--
 [![Abdul Ahad's github stats](https://github-readme-stats.vercel.app/api?username=abdulahadsiddiqui11&show_icons=true&hide_border=true&count_private=true&theme=prussian)](https://github.com/AbdulAhadSiddiqui11)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadsiddiqui11&layout=compact&theme=prussian&hide=Jupyter%20Notebook)](https://github.com/AbdulAhadSiddiqui11?tab=repositories)
 
+--!>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abdulahadsiddiqui11" alt="abdulahadsiddiqui11" /> </p>
