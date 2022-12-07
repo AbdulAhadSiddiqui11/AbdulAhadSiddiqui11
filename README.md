@@ -17,17 +17,18 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/abdulahadsiddiqui11/" target="_blank">
-<img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
-</a>
+  <a href="https://www.linkedin.com/in/abdulahadsiddiqui11/" target="_blank">
+  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+  </a>
 
-<a href="https://www.instagram.com/abdulahadsiddiqui11/" target="_blank">
-<img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
-</a>
+  <a href="https://www.instagram.com/abdulahadsiddiqui11/" target="_blank">
+  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+  </a>
 
-<a href="mailto:abdulahadsiddiqui011@gmail.com" target="_blank">
-<img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
-</a>
+  <a href="mailto:abdulahadsiddiqui011@gmail.com" target="_blank">
+  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+  </a>
+  
 </p>
 
 <div align="center">
