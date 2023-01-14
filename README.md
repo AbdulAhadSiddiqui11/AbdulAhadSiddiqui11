@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
   </a>
 
-  <a href="https://www.instagram.com/abdulahadsiddiqui11/" target="_blank">
-  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+  <a href="https://leetcode.com/AbdulAhadSiddiqui11/" target="_blank">
+  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png"/>
   </a>
 
   <a href="mailto:abdulahadsiddiqui011@gmail.com" target="_blank">
@@ -39,7 +39,7 @@ I'm currently into Web Development 🕸️ and working on a few side projects. <
 I'm open to full time, software engineer roles. 👨🏻‍💻 <br />
 </div>
 
-<!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
