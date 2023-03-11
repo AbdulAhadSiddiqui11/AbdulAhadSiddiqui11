@@ -25,8 +25,12 @@ Here are some ideas to get you started:
   <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png"/>
   </a>
 
-  <a href="mailto:abdulahadsiddiqui011@gmail.com" target="_blank">
+  <a href="mailto:contact@abdulahadsiddiqui.com" target="_blank">
   <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+  </a>
+  
+  <a href="https://www.abdulahadsiddiqui.com/" target="_blank">
+  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/40/null/internet--v1.png"/>
   </a>
   
 </p>
