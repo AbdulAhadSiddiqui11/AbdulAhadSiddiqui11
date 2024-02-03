@@ -43,7 +43,7 @@ I'm currently into Web Development 🕸️ and working on a few side projects. <
 I'm open to full time, software engineer roles. 👨🏻‍💻 <br />
 </div>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
 
 <br>
 
