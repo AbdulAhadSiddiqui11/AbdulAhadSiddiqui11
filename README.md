@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png"/>
   </a>
 
-  <a href="mailto:contact@abdulahadsiddiqui.com" target="_blank">
+  <a href="mailto:abdulahadsiddiqui011@gmail.com" target="_blank">
   <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
   </a>
   
@@ -53,7 +53,7 @@ I'm open to full time, software engineer roles. 👨🏻‍💻 <br />
 - 💼 I’m open to work - please drop me an email at the address below;
 - 💬 Ask me about anything, I am happy to help;
 - 🌎 Check out my portfolio [here](https://www.abdulahadsiddiqui.com/);
-- 📫 Reach out to me at contact@abdulahadsiddiqui.com;
+- 📫 Reach out to me at [abdulahadsiddiqui011@gmail.com](mailto:abdulahadsiddiqui011@gmail.com);
 - 📝 Come, connect with me on [LinkedIn](https://www.linkedin.com/in/abdulahadsiddiqui11/);
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
