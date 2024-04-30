@@ -40,7 +40,7 @@ Hi there, I'm <strong>Abdul Ahad Siddiqui</strong>, a <strong>Software Engineer<
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <br />
 I love ❤️ to explore new technologies and leverage them to solve real-life problems ✨. <br />
 I'm currently into Web Development 🕸️ and working on a few side projects. <br />
-I'm open to full time, software engineer roles. 👨🏻‍💻 <br />
+I'm open to full-time, software engineer roles. 👨🏻‍💻 <br />
 </div>
 
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
@@ -49,7 +49,7 @@ I'm open to full time, software engineer roles. 👨🏻‍💻 <br />
 
 **About me**
 
-- 🔭 I’m currently working at Deloitte as a Software Engineer;
+- 🔭 I’m currently working at [Splunk](https://www.splunk.com/) as a Software Engineer (SWE-2);
 - 💼 I’m open to work - please drop me an email at the address below;
 - 💬 Ask me about anything, I am happy to help;
 - 🌎 Check out my portfolio [here](https://www.abdulahadsiddiqui.com/);
