@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abdul Ahad 👋</h1>
-<h3 align="center">Software Engineer 2 @ Splunk | Generative AI & Full Stack Enthusiast</h3>
+<h3 align="center">Software Engineer 3 @ Splunk | Agentic AI & Full Stack Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulahadsiddiqui11/" target="_blank">
@@ -30,7 +30,7 @@
 - 💡 I specialize in building **AI-driven applications** using **LangChain**, **LangGraph**, and **OpenAI**.
 - 🌱 I’m deeply interested in **Multi-agent Systems** and **Prompt Engineering**.
 - 💻 I have extensive experience in **React**, **TypeScript**, and **Python**.
-- 💬 Ask me about **LLMs, System Design, or Frontend Architecture**.
+- 💬 Ask me about **LLMs, System Design, or Frontend Systems**.
 - 📫 Reach me at: **[abdulahadsiddiqui011@gmail.com](mailto:abdulahadsiddiqui011@gmail.com)**.
 - 📄 Check out my **[Portfolio](https://www.abdulahadsiddiqui.com/)**.
 
@@ -42,7 +42,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 💻 Frontend Development
@@ -52,6 +52,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux%20Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -67,6 +69,7 @@
 ### 🧪 Testing
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
@@ -77,8 +80,8 @@
 ## 📊 GitHub Stats
 
 <a href="https://github.com/AbdulAhadSiddiqui11">
-<img src="https://github-readme-stats.vercel.app/api?username=abdulahadsiddiqui11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadsiddiqui11&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="180" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=AbdulAhadSiddiqui11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhadSiddiqui11&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="180" alt="languages graph"  />
 </a>
 
 <br><br>
