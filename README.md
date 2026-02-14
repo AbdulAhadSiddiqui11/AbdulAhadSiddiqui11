@@ -76,8 +76,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
 <a href="https://github.com/AbdulAhadSiddiqui11">
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulAhadSiddiqui11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhadSiddiqui11&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="180" alt="languages graph"  />
