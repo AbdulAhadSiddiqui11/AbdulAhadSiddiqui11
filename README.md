@@ -18,7 +18,7 @@
 
 <p align="center">
   I'm a passionate <b>Software Engineer</b> based in India, currently building next-gen solutions at <b>Splunk</b>. <br>
-  My expertise lies in <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, and scalable <b>Full Stack Development</b>. <br>
+  My expertise lies in <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, and scalable <b>Full-Stack Development</b>. <br>
   I thrive on solving complex problems and exploring the frontiers of AI technology.
 </p>
 
@@ -27,7 +27,7 @@
 ## ⚡ About Me
 
 - 🔭 I’m currently working on **Generative AI & Agentic Systems** at **[Splunk](https://www.splunk.com/)**.
-- 💡 I specialize in building **Frontend Systems** and **AI-driven applications** using **React**, **LangChain**, **LangGraph**, and **OpenAI**.
+- 💡 I specialize in building **Frontend Systems** and **AI-driven applications**.
 - 🌱 I’m deeply interested in **Multi-agent Systems** and **Prompt Engineering**.
 - 💻 I have extensive experience in **React**, **TypeScript**, and **Python**.
 - 💬 Ask me about **LLMs, System Design, or Frontend Systems**.
@@ -40,6 +40,7 @@
 
 ### 🤖 Generative AI & LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
@@ -74,15 +75,7 @@
 
 <br>
 
-<div align="center">
-
-<a href="https://github.com/AbdulAhadSiddiqui11">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulAhadSiddiqui11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAhadSiddiqui11&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" height="180" alt="languages graph"  />
-</a>
-
-<br><br>
-
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=abdulahadsiddiqui11&style=flat-square&color=blue" alt="Profile Views" />
 
 </div>
