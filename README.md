@@ -1,67 +1,81 @@
-<!--
-**AbdulAhadSiddiqui11/AbdulAhadSiddiqui11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center"> Hey 👋, I'm Abdul Ahad </h1>
+<h1 align="center">Hi there, I'm Abdul Ahad 👋</h1>
+<h3 align="center">Software Engineer 3 @ Splunk | Agentic AI & Full Stack Engineer</h3>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/abdulahadsiddiqui11/" target="_blank">
-  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
   <a href="https://leetcode.com/AbdulAhadSiddiqui11/" target="_blank">
-  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/40/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
   </a>
-
   <a href="mailto:abdulahadsiddiqui011@gmail.com" target="_blank">
-  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  
   <a href="https://www.abdulahadsiddiqui.com/" target="_blank">
-  <img border="0" alt="Abdul Ahad Siddiqui" src="https://img.icons8.com/doodle/40/null/internet--v1.png"/>
+    <img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
-  
 </p>
 
-<div align="center">
-Hi there, I'm <strong>Abdul Ahad Siddiqui</strong>, a <strong>Software Engineer</strong> 🚀 from India. <br />
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <br />
-I love ❤️ to explore new technologies and leverage them to solve real-life problems ✨. <br />
-I'm currently into Web Development 🕸️ and working on a few side projects. <br />
-I'm open to full-time, software engineer roles. 👨🏻‍💻 <br />
-</div>
-
-<!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
+<p align="center">
+  I'm a passionate <b>Software Engineer</b> based in India, currently building next-gen solutions at <b>Splunk</b>. <br>
+  My expertise lies in <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, and scalable <b>Full-Stack Development</b>. <br>
+  I thrive on solving complex problems and exploring the frontiers of AI technology.
+</p>
 
 <br>
 
-**About me**
+## ⚡ About Me
 
-- 🔭 I’m currently working at [Splunk](https://www.splunk.com/) as a Software Engineer (SWE-2);
-- 💼 I’m open to work - please drop me an email at the address below;
-- 💬 Ask me about anything, I am happy to help;
-- 🌎 Check out my portfolio [here](https://www.abdulahadsiddiqui.com/);
-- 📫 Reach out to me at [abdulahadsiddiqui011@gmail.com](mailto:abdulahadsiddiqui011@gmail.com);
-- 📝 Come, connect with me on [LinkedIn](https://www.linkedin.com/in/abdulahadsiddiqui11/);
+- 🔭 I’m currently working on **Generative AI & Agentic Systems** at **[Splunk](https://www.splunk.com/)**.
+- 💡 I specialize in building **Frontend Systems** and **AI-driven applications**.
+- 🌱 I’m deeply interested in **Multi-agent Systems** and **Prompt Engineering**.
+- 💻 I have extensive experience in **React**, **TypeScript**, and **Python**.
+- 💬 Ask me about **LLMs, System Design, or Frontend Systems**.
+- 📫 Reach me at: **[abdulahadsiddiqui011@gmail.com](mailto:abdulahadsiddiqui011@gmail.com)**.
+- 📄 Check out my **[Portfolio](https://www.abdulahadsiddiqui.com/)**.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
-<!--
-[![Abdul Ahad's github stats](https://github-readme-stats.vercel.app/api?username=abdulahadsiddiqui11&show_icons=true&hide_border=true&count_private=true&theme=prussian)](https://github.com/AbdulAhadSiddiqui11)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahadsiddiqui11&layout=compact&theme=prussian&hide=Jupyter%20Notebook)](https://github.com/AbdulAhadSiddiqui11?tab=repositories)
+## 🛠 Tech Stack
 
---!>
+### 🤖 Generative AI & LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=abdulahadsiddiqui11" alt="abdulahadsiddiqui11" /> </p>
+### 💻 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux%20Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🧪 Testing
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+
+<br>
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=abdulahadsiddiqui11&style=flat-square&color=blue" alt="Profile Views" />
+
+</div>
