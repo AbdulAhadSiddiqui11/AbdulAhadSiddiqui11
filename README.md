@@ -27,7 +27,7 @@
 ## ⚡ About Me
 
 - 🔭 I’m currently working on **Generative AI & Agentic Systems** at **[Splunk](https://www.splunk.com/)**.
-- 💡 I specialize in building **AI-driven applications** using **LangChain**, **LangGraph**, and **OpenAI**.
+- 💡 I specialize in building **AI-driven applications** and **Frontend Systems** using **LangChain**, **LangGraph**, **OpenAI**, and **React**.
 - 🌱 I’m deeply interested in **Multi-agent Systems** and **Prompt Engineering**.
 - 💻 I have extensive experience in **React**, **TypeScript**, and **Python**.
 - 💬 Ask me about **LLMs, System Design, or Frontend Systems**.
